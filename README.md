@@ -3,7 +3,7 @@
 
 <p align="left">
 
-The three phases will go like this.
+The three releases will go like this.
 1. Wallpaper
 2. Desktop Environment
 3. Operating System
